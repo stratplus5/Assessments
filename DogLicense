@@ -1,0 +1,35 @@
+Scenario:  You’ve been asked by your client, the Department for Pet Protection, to digitize their "Application for a Dog License" form. They want citizens to be able to submit the form online from their website. Before you start to plan the work, what questions would you ask the client?
+
+What is the current server architecture?
+
+Is a user required to create an account and login to the site in order to track submissions?
+
+How will a user be notified of acceptance/rejection?
+
+Who will be responsible for the administrative approval/denial of licenses submitted via the site?
+
+Is there any private data that requires encryption?
+
+Does this require connection to any external sources and/or APIs for identity verification (such as DocuSign or ID.me)?
+
+Should there be an implementation for the user to check their application status?
+
+If the entire form cannot fit on the screen, should it scroll down or paginate?
+
+Is mobile UI optimization required?
+
+Will the user need to upload any document/s?  If so, is a storage solution already in place or does one need to be created?
+
+What is the timeframe for the project ?
+
+Is an administrative dashboard required?
+
+What is the estimated maximum # of concurrent users?
+
+Is SMS messaging required for any alerts/notifications?
+
+What is the timeframe for the project?
+
+Will we be designing the form layout and/or theme, or will it be supplied by the client?
+
+What are the critical features required in order to release a beta version for public consumption?
