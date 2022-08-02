@@ -1,0 +1,5 @@
+Simply place ReadFilesChunk.java in same directory as txnlog.dat, and run from command line:
+
+java ReadFilesChunk.java
+
+
