@@ -1,0 +1,3 @@
+Simply place files in the same directory, and from that directory type:
+
+java ReadFilesChunk.java
